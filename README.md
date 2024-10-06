@@ -1,4 +1,4 @@
-# Intall-TA-Lib-Window-MAC
+# Install TA-Lib on Windows 11 64 bit and Mac OS with M series chips
 
 CLAIMER: THERE ARE NO guarantees on the correctness of the following content as they are a summary of the general process. Please perform your own due diligence to ensure applicability, correctness, and other related licensure limitations. 
 
